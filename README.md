@@ -1,0 +1,1 @@
+Script command for absolute path for working directory
