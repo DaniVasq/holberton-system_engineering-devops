@@ -1,1 +1,1 @@
-The script command for absolute path name 
+Script commands for the shell 
