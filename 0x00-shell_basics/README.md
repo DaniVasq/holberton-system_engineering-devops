@@ -1,0 +1,1 @@
+The script command for absolute path name 
