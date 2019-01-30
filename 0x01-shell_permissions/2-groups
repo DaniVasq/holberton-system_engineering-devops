@@ -1,2 +1,3 @@
 #!/bin/bash
-Get-ADPrincipalGroupMembership betty
+groups 
+
