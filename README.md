@@ -1,1 +1,3 @@
-Script command for absolute path for working directory
+Here I show you some Shell permissions script commands!
+
+
