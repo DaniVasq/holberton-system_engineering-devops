@@ -1,2 +1,3 @@
 #!/bin/bash
-chmodu+xexecute_hello
+chmod u+x "hello" 
+
