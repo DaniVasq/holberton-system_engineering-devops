@@ -1,2 +1,2 @@
-#!/bin/bash
-tail -n 3 "iacta"  
+x#!/bin/bash
+head -n $3 "iacta" | tail -1 
