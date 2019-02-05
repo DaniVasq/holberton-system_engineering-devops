@@ -1,0 +1,1 @@
+Creating script commands for shell permissions. 

@@ -1,0 +1,1 @@
+0x02-shell_redirections for Holberton School. Learning the shell! 
