@@ -1,1 +1,0 @@
-Scripts for Shell, init files, variables and expansions for Holberton School. 
