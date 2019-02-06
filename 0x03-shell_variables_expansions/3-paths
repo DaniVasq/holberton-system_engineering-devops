@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRCOUNT=$(find $PATH -type d | wc -l)
+DIRCOUNT=$(find $LOCATION -type d | wc -l)
