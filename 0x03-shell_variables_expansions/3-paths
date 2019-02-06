@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRCOUNT=$(find $LOCATION -type d | wc -l)
+echo $PATH | tr '/' '\n' | sort | uniq
