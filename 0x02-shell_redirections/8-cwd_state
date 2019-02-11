@@ -1,0 +1,2 @@
+#!/bin/bash
+ls_cws_content > ls -la
