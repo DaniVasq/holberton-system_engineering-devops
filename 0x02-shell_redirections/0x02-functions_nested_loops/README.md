@@ -1,1 +1,0 @@
-C programming for Holberton School. 
