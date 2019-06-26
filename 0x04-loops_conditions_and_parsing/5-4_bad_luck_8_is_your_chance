@@ -13,5 +13,4 @@ echo "good luck"
 else
 echo "Holberton School"
 fi
-i=$((i+1))
 done
