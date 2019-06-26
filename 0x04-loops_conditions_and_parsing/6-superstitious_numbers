@@ -10,4 +10,5 @@ case $i in
 9) echo "bad luck from Japan";;
 17) echo "bad luck from Italy";;
 esac
+i=$((i+1))
 done
