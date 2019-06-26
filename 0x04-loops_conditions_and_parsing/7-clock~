@@ -4,11 +4,11 @@
 hour=0
 minutes=1
 
-while [ $hour -le 12 ]
+while [ $i -lt 12 ]
 do
 echo "Hour: $hour"
 minutes=$((1))
-while [ $minutes -le 59 ]
+while [ $minutes -lt 59 ]
 do
 echo "$minutes"
 minutes=$((minutes+1))
