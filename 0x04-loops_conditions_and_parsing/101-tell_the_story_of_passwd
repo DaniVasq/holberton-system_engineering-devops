@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-# This script tells the story of password
-
-file=/etc/passwd
-IFS=":"
-while read -r Username Password UserID GroupID UIDinfo Home CommandShell
-do
-echo "The user $Username is part of the $GroupID gang, lives in $Home and rides $CommandShell. $UserID's place is protected by the passcode $Password, more info about the user here: $UIDinfo"
-done < "$file"
