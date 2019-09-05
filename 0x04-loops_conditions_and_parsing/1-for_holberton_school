@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-# This script prints Holberton ten times
-for _ in {1..10}
-do
-echo "Holberton School"
-done
