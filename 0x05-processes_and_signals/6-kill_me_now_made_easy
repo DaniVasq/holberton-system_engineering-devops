@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Bash script that kill 4-to_infinity_and_beyond w/o kill cmd
+
+pkill -SIGTERM -f ./4-to_infinity_and_beyond
