@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script to display all IPv4 IPS on local machine
+
+ifconfig | grep "inet addr" | cut -d ":" -f2 | cut -d " " -f1
