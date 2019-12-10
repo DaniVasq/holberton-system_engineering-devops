@@ -1,6 +1,4 @@
 # Installs a package using Puppet.
-class puppet-lint {
-  package { 'puppet-link':
-    ensure => 'installed',
-  }
+  package {'puppet-link':
+  ensure => '2.1.1',
 }
