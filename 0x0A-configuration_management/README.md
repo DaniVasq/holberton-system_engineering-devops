@@ -1,0 +1,1 @@
+In this project, we will learn about configuration management and how to use Puppet. 
