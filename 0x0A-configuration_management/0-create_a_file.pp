@@ -1,7 +1,7 @@
-# Create a file in /tmp with Puppet.
+# Creates a file with puppet in /tmp.
 file { '/tmp/holberton':
-  path    => '/tmp/holberton',
   ensure  => file,
+  path    => '/tmp/holberton',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
